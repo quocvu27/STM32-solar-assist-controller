@@ -1,0 +1,6 @@
+ADC- 5 inputs- 4 from inverter and converter, 1 from battery. PA0-PA4.
+power from battery.
+swd: pa14:swclk, pa13:swdio
+consider design for st link v3 swd connection.
+need max 8875 for current. need DAC for output.
+

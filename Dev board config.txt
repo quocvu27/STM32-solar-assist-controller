@@ -1,0 +1,13 @@
+ADC1:
+PA0
+PA1
+ADC2:
+PA6
+PA7
+DAC:
+PA4
+
+Section that will need perf board: 
+Converter
+2 ADC (voltage measurement)
+2 current sense (current measurement) 

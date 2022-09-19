@@ -1,0 +1,8 @@
+MAX4080TAUA+T:
+Rs+ to Rs-: 5mOhms
+Decouple VCC to GND with a 0.1µF capacitor to
+bypass line transients.
+Vout = Rsense x Iload x Av= 2.5V
+Gain = 20V
+Full_scale current = 25A
+Rsense = 5mOhms

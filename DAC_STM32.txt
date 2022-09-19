@@ -1,0 +1,6 @@
+Value = value of DAC
+Change value from analog to digital: 
+Equation: 
+uint32_t dac = value_analog*4096/3.3
+DAC is in 12bit right aligned format
+HAL_DAC_SetValue(&hdac, DAC_CHANNEL_1, DAC_ALIGN_12B_R, var);

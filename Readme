@@ -1,4 +1,4 @@
-This is a microcontroller unit that will be used to govern how the solar system and grid system will supply power to the HVAC. 
+This subsystem contains a microcontroller unit that will be used to govern how the solar system and grid system will supply power to the HVAC. 
 Design 1: 
 The microcontroller model used here is STM32G041F8P6.
 The microcontroller contained 8 sections and two headers for integrating with other parts of the system: 

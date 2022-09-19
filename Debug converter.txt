@@ -1,0 +1,8 @@
+Converter pin: 
+left two: Vin, gnd 
+right 3: Vo NC 0V
+Debug short: 
+R2-1k: 0.2V
+R4-10k is connected to 0.6 V: 0.5 V
+R5-10k is connected to 0.6V: 0.15mV
+C2-8pF: -0.15V

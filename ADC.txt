@@ -1,0 +1,8 @@
+Voltage divider circuit: 
+24V max => 24/10 = 2.4V => within range
+PA0-ADC1-IN0
+Battery measurement: 
+Battery discharge percentage: 
+at 40% use grid: 11,9V	 
+fully charged: 12.7
+Battery ADC: 

@@ -1,0 +1,26 @@
+D1 checked
+D2 top a bit burned and top right, bottom left pin have little soldering.
+D3 checked 
+these 3 leds will be tested later by running voltage through them to ensure that they worked.
+R1-1000 OHM checked
+R2-1000 OHM top soldering may be lacking
+R3-1000 OHM bottom soldering may be lacking
+DAC left third pin lacking soldering
+R4, R5 - 10k checked
+C1-8pF may be bridged 
+C2-8pF checked
+Xtal checked
+C1-10uF checked
+converter checked
+In/out header checked
+SWD header checked
+R1 -10 k -1k checked
+R2-10k-1k checked
+R3-10k-1k checked
+U2 checked
+U1 checked
+R2-5mOhms checked
+R1-5mOhms checked 
+C3-0.1uf, C2-0.1uF checked
+
+check R2-1k
